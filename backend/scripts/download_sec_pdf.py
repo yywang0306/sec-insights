@@ -40,6 +40,12 @@ DEFAULT_CIKS = [
     "1682852",
     # JNJ (Johnson & Johnson)
     "200406",
+    # EXXON MOBIL CORP
+    "34088",
+    # FEDEX CORP
+    "1048911",
+    #AES CORP
+    "874761",
 ]
 DEFAULT_FILING_TYPES = [
     "10-K",
